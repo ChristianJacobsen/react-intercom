@@ -1,5 +1,5 @@
 {
-  "name": "react-intercom",
+  "name": "@christianjacobsen/react-intercom",
   "version": "2.0.0-alpha.1",
   "description": "A component to initialize and configure Intercom in your React application",
   "main": "dist/react-intercom.umd.js",
@@ -8,10 +8,10 @@
   "files": [
     "dist"
   ],
-  "author": "Nathan Hagen <nathan@getadmiral.com>",
+  "author": "Nathan Hagen <nathan@getadmiral.com>, Christian A. Jacobsen <christian@jenkins.no>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nhagen/react-intercom"
+    "url": "https://github.com/christianjacobsen/react-intercom"
   },
   "license": "MIT",
   "engines": {
