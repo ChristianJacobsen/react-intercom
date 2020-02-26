@@ -1,6 +1,6 @@
 {
   "name": "@christianjacobsen/react-intercom",
-  "version": "2.0.0-alpha.1",
+  "version": "2.0.0-alpha.2",
   "description": "A component to initialize and configure Intercom in your React application",
   "main": "dist/react-intercom.umd.js",
   "module": "dist/react-intercom/lib",
